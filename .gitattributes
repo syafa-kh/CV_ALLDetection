@@ -1,0 +1,4 @@
+all_fixed-vgg19.h5 filter=lfs diff=lfs merge=lfs -text
+all_VGG19.h5 filter=lfs diff=lfs merge=lfs -text
+all_ResNet50.h5 filter=lfs diff=lfs merge=lfs -text
+all_EfficientNetB0.h5 filter=lfs diff=lfs merge=lfs -text
